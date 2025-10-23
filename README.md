@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro Jorge I am from Brazil, Santa Catarina</p>
+<p align="left">My name is Pedro Jorge and I am from Brazil, Santa Catarina</p>
 
 ###
 
